@@ -39,10 +39,10 @@ $$C_{\text{agua}} (\text{ppm}) = \frac{E_{\text{bruta}} \cdot (1 - \eta_{\text{f
 
 | Contaminante | Fórmula | $BCF_{\text{fito}}$ | $BCF_{\text{pez}}$ | $BMF_{\text{depredador}}$ | $t_{1/2}$ Humanos | $V_d$ (L/kg) | Dosis Crítica | Caso Histórico |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Metilmercurio** | $\text{CH}_3\text{Hg}^+$ | 1500 | 8000 | 4.5x | 70 días | 1.7 | 0.05 ppm | Bahía de Minamata (1956) |
-| **Plomo** | $\text{Pb}^{2+}$ | 800 | 3500 | 2.8x | 10950 d (~30 años) | 0.9 | 0.10 ppm | Crisis de Flint (2014) |
-| **Cadmio** | $\text{Cd}^{2+}$ | 2200 | 6000 | 3.2x | 9125 d (~25 años) | 1.2 | 0.02 ppm | Río Jinzū / Itai-Itai (1912) |
-| **Arsénico** | $\text{As(III)}$ | 900 | 1800 | 1.8x | 4 días | 0.6 | 0.01 ppm | Antofagasta HACRE (1958) |
+| **Metilmercurio** | $\text{CH}_3\text{Hg}^+$ | 1500 | 8000 | 5.5x | 70 días | 1.7 | 0.05 ppm | Bahía de Minamata (1956) |
+| **Plomo** | $\text{Pb}^{2+}$ | 800 | 2500 | 3.2x | 7300 d (~20 años) | 2.1 | 0.20 ppm | Crisis de Flint (2014) |
+| **Cadmio** | $\text{Cd}^{2+}$ | 1200 | 3100 | 2.8x | 9125 d (~25 años) | 1.5 | 0.015 ppm | Río Jinzū / Itai-Itai (1912) |
+| **Arsénico** | $\text{As(III)}$ | 600 | 1800 | 2.2x | 4 días | 0.4 | 0.02 ppm | Cuenca de Bangladesh / Chaco-Pampeana (1970-presente) |
 
 ---
 
