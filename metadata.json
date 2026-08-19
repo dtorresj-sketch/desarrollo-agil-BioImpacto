@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Bioacumulación y Cadena Trófica",
+  "description": "Sistema web integral con simulador fluvial de bioacumulación trófica, estudio de motion graphics 2D interactivo, atlas anatómico 3D, laboratorio cinético, misiones Twinkl Go y auditoría ambiental DS 90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
