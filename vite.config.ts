@@ -5,11 +5,26 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Rutas relativas: el sitio funciona en GitHub Pages bajo /desarrollo-agil-BioImpacto/.
+    base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
+    },
+    build: {
+      // Separar las librerías estables mejora el cacheo entre despliegues.
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            react: ['react', 'react-dom'],
+            icons: ['lucide-react'],
+            motion: ['motion'],
+          },
+        },
+      },
+      chunkSizeWarningLimit: 700,
     },
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
