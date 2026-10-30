@@ -1,0 +1,3 @@
+# Quien debe aprobar los cambios: todo el repositorio lo revisa Diego (dtorresj-sketch).
+# Funciona junto con la opcion "Require review from Code Owners" de las reglas de main y develop.
+* @dtorresj-sketch
